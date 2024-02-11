@@ -33,17 +33,17 @@ The following video illustrates the functionality of Jetbrains AI Assistant
 
 ### Licenses
 
-| Monthly Plan | Item                   | Cost (+ VAT) | Urgency      |
-|--------------|------------------------|--------------|--------------|
-| Individual   | Intellij Ultimate      | $19.60       | Not Required |
-|              | Jetbrains AI Assistant | $11.60       | Required     |
-| Organization |                        |              |              |
+| Monthly Plan | Item                   | Cost (+ VAT) | Urgency  |
+|--------------|------------------------|--------------|----------|
+| Individual   | Intellij Ultimate      | $19.60       | Optional |
+|              | Jetbrains AI Assistant | $11.60       | Required |
+| Organization |                        |              |          |
 
-| Annual Plan  | Item                   | Cost (+ VAT) | Urgency      |
-|--------------|------------------------|--------------|--------------|
-| Individual   | Intellij Ultimate      | $196.04      | Not Required |
-|              | Jetbrains AI Assistant | $116.00      | Required     |
-| Organization |                        |              |              |
+| Annual Plan  | Item                   | Cost (+ VAT) | Urgency  |
+|--------------|------------------------|--------------|----------|
+| Individual   | Intellij Ultimate      | $196.04      | Optional |
+|              | Jetbrains AI Assistant | $116.00      | Required |
+| Organization |                        |              |          |
 
 <note>
 
