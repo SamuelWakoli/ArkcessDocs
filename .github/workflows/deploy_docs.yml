@@ -1,3 +1,4 @@
+# This action deploys the documentation to Github Pages
 name: Build documentation
           
 on:
