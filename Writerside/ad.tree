@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="ad"
+                  name="Arkcess Docs"
+                  start-page="ProjectPlan.md">
+
+    <toc-element topic="ProjectPlan.md">
+        <toc-element topic="Overview.md"/>
+        <toc-element topic="Scope.md"/>
+        <toc-element topic="Deliverables.md"/>
+        <toc-element topic="ProjectSchedule.md"/>
+        <toc-element topic="ResourcePlanning.md">
+            <toc-element topic="Personnel.md"/>
+            <toc-element topic="Hardware.md"/>
+            <toc-element topic="Software.md"/>
+            <toc-element topic="CloudServices.md"/>
+            <toc-element topic="Budget.md"/>
+        </toc-element>
+    </toc-element>
+    <toc-element topic="OfficialDocumentation.md"/>
+</instance-profile>
